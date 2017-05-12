@@ -1,7 +1,7 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background-color:darkgrey;
 }
 
 #header
@@ -92,4 +92,8 @@
 	text-align: right;
 	padding: 20px;
 	height: 1%;
+}
+
+body{
+    background-color: cornsilk;
 }
